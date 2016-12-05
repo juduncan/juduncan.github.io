@@ -10,3 +10,8 @@
 #moreContent {
   margin-left: 200px;
 }
+
+@media screen and (max-width:599px) {
+  navi li {
+    display: inline;
+  }
