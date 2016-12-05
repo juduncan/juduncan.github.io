@@ -12,6 +12,6 @@
 }
 
 @media screen and (max-width:599px) {
-  navi li {
+  #navi li {
     display: inline;
   }
