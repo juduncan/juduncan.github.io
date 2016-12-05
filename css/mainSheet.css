@@ -1,8 +1,8 @@
-navi {
+#navi {
   float: left;
   width: 200px;
 }
 
-mainContent {
+#mainContent {
   margin-left: 200px;
 }
