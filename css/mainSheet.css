@@ -1,15 +1,17 @@
-#navi {
-  float: left;
-  width: 200px;
+@media screen and (min-width:600px) {
+  #navi {
+    float: left;
+    width: 25%;
+   }
+  #mainContent {
+    margin-left: 25%;
+   }
+  #moreContent {
+    margin-left: 25%;
+   }
 }
 
-#mainContent {
-  margin-left: 200px;
-}
 
-#moreContent {
-  margin-left: 200px;
-}
 
 @media screen and (max-width:599px) {
   #navi li {
