@@ -3,7 +3,7 @@
   }
 #absolute{
 position: absolute;
-float: right;
+right: 0;
 top: 0;
 }
 img.center{
