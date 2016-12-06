@@ -1,8 +1,8 @@
-@media screen and (min-width:600px) {
+@media screen and (min-width:500px) {
   #navi {
     float: left;
     width: 25%;
-    font-size: 36em;
+    font-size: 36px;
    }
   #mainContent {
     margin-left: 25%;
@@ -14,7 +14,7 @@
 
 
 
-@media screen and (max-width:599px) {
+@media screen and (max-width:499px) {
   #navi li {
     display: inline;
   }
