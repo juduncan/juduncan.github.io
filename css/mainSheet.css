@@ -17,6 +17,9 @@
     color:red;
     width: 100%;
   }
+  #navi li{
+    display: inline;
+  }
     #mainContent {
     margin-left: 0%;
   }
