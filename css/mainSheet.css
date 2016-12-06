@@ -12,8 +12,8 @@
   }
 
 @media only screen and (max-device-width: 900px) {
-  #navi li {
-    float: left;
+  #navi {
+    float: none;
     color:red;
     width: 100%;
   }
@@ -22,5 +22,8 @@
   }
   #moreContent {
     margin-left: 0%;
+  }
+  #navi li{
+  float: left;
   }
 }
