@@ -1,7 +1,11 @@
   p{
   padding: 25px;
   }
-
+#absolute{
+position: absolute;
+float: right;
+top: 0;
+}
 img.center{
 display:block;
 margin: 0 auto;
