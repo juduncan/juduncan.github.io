@@ -11,11 +11,14 @@
     margin-left: 25%;
   }
 
-@media only screen and (max-device-width: 420px) {
+@media only screen and (max-device-width: 600px) {
   #navi {
     float: none;
     color:red;
     width: 100%;
+  }
+  #navi li{
+  display:inline;
   }
   #mainContent {
     margin-left: 0%;
