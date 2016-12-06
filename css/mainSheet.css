@@ -18,8 +18,7 @@ width: 25%;
 }
 #right{
 margin-left: 25%; 
-margin-top: auto;
-margin-bottom: auto;
+padding: 10% 0;
 }
   #mainContent {
     display: block;
