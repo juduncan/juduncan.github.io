@@ -1,4 +1,4 @@
-@media screen and (min-width:300px) {
+@media screen and (min-width:600px) {
   #navi {
     float: left;
     width: 25%;
@@ -11,9 +11,10 @@
     margin-left: 25%;
   }
 }
-@media screen and (max-width:299px) {
+@media screen and (max-width:599px) {
   #navi {
     float: none;
     color:red;
+    width: 100%;
   }
 }
