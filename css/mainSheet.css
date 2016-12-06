@@ -2,6 +2,8 @@
   #navi {
     float: left;
     width: 25%;
+   }
+   #navi li {
     font-size: 36px;
    }
   #mainContent {
