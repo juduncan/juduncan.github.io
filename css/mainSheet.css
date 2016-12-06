@@ -9,7 +9,8 @@ margin: 0 auto;
 }
 
   #mainContent {
-    
+    display: block;
+    text-align: center;
   }
   #moreContent {
     
