@@ -30,6 +30,7 @@ margin: 0 auto;
     color:red;
   }
   #navi li{
+  text-align: center;
   display: inline-block;
   }
   #mainContent {
