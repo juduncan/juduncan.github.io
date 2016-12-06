@@ -2,6 +2,11 @@
   padding: 25px;
   }
 
+#header{
+margin-left: auto;
+margin-right: auto;
+
+}
   #navi {
     float: left;
     width: 15%;
