@@ -22,15 +22,15 @@
     color:red;
   }
   #navi li{
-  
+  display: inline-block;
   }
   #mainContent {
     margin-left: 0%;
-    width: auto;
+    width: 100%;
   }
   #moreContent {
     margin-left: 0%;
-    width: auto;
+    width: 100%;
   }
 
 }
