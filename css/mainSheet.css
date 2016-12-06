@@ -12,8 +12,8 @@
   }
 }
 @media screen and (max-width:299px) {
-  #navi li {
-    display: inline;
+  #navi {
+    float: none;
     color:red;
   }
 }
