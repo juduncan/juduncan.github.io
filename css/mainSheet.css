@@ -6,9 +6,11 @@
   }
   #mainContent {
     margin-left: 15%;
+    padding: 25px;
   }
   #moreContent {
     margin-left: 15%;
+    padding: 25px;
   }
 
 @media only screen and (max-width:599px), only screen and (max-device-width: 500px)  {
