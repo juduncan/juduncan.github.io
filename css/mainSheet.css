@@ -1,6 +1,9 @@
-  p{
-  padding: 25px;
-  }
+p{
+padding: 25px;
+}
+
+#header{padding-top: 20px;}
+
 #absolute{
 position: absolute;
 right: 0;
