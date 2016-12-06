@@ -12,7 +12,7 @@
   }
 
 @media only screen and (max-device-width: 360px) {
-  #navi {
+  #navi li{
     float: left;
     color:red;
     width: 100%;
