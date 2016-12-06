@@ -2,6 +2,7 @@
   #navi {
     float: left;
     width: 25%;
+    color: blue;
   }
   #mainContent {
     margin-left: 25%;
@@ -13,5 +14,6 @@
 @media screen and (max-width:599px) {
   #navi li {
     display: inline;
+    color:red;
   }
 }
