@@ -8,7 +8,7 @@ margin: 0 auto;
 
 }
 #sprite{
-display:inline;
+display:inline-block;
 }
 
 #left{
