@@ -12,13 +12,10 @@
   }
 
 @media only screen and (max-device-width: 900px) {
-  #navi {
-    float: none;
+  #navi li {
+    float: left;
     color:red;
     width: 100%;
-  }
-  #navi li{
-    display: inline-block;
   }
     #mainContent {
     margin-left: 0%;
