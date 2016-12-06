@@ -9,10 +9,10 @@ margin: 0 auto;
 }
 
   #mainContent {
-    margin-left: 15%;
+    
   }
   #moreContent {
-    margin-left: 15%;
+    
   }
 
 @media only screen and (max-width:599px), only screen and (max-device-width: 500px)  {
