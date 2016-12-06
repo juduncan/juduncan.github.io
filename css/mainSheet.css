@@ -22,9 +22,11 @@
   }
   #mainContent {
     margin-left: 0%;
+    width: auto;
   }
   #moreContent {
     margin-left: 0%;
+    width: auto;
   }
 
 }
