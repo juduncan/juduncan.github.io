@@ -7,6 +7,10 @@ display:block;
 margin: 0 auto;
 
 }
+#sprite{
+display:inline;
+}
+
 #left{
 float: left;
 clear: left;
