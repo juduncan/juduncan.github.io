@@ -11,7 +11,7 @@
     margin-left: 25%;
   }
 
-@media only screen and (max-device-width: 500px), only screen and (max-width:599px) {
+@media only screen and (max-device-width: 500px), screen and (max-width:599px) {
   #navi {
     float: none;
     color:red;
