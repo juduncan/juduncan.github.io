@@ -1,22 +1,17 @@
-@media screen and (min-width:320px) {
+@media screen and (min-width:600px) {
   #navi {
     float: left;
     width: 25%;
-   }
-
+  }
   #mainContent {
     margin-left: 25%;
-   }
+  }
   #moreContent {
     margin-left: 25%;
-   }
-}
-
-
-
-@media screen and (max-width:319px) {
-  #navi li{
-    display:inline;
-    color: red;
-    }
   }
+}
+@media screen and (max-width:599px) {
+  #navi li {
+    display: inline;
+  }
+}
