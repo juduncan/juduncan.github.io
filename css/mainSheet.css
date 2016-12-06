@@ -19,4 +19,5 @@
 @media screen and (max-width:319px) {
   #navi li{
     float:right;
+    color: red;
   }
