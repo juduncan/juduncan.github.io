@@ -14,10 +14,11 @@
 @media only screen and (max-width:599px), only screen and (max-device-width: 500px)  {
   #navi {
     float: none;
+    width: auto;
     color:red;
   }
   #navi li{
-  float: left;
+  
   }
   #mainContent {
     margin-left: 0%;
