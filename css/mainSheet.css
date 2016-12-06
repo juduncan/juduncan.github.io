@@ -7,16 +7,12 @@ display:block;
 margin: 0 auto;
 
 }
-  #navi {
-    float: left;
-    width: 15%;
-    color: blue;
-  }
+
   #mainContent {
-    margin-left: 15%;
+
   }
   #moreContent {
-    margin-left: 15%;
+
   }
 
 @media only screen and (max-width:599px), only screen and (max-device-width: 500px)  {
@@ -24,20 +20,11 @@ margin: 0 auto;
 
   }
   
-  #navi {
-    float: none;
-    width: auto;
-    color:red;
-    margin: 0 auto;
-  }
-  #navi li{
-  display: inline-block;
-  }
   #mainContent {
-    width: 100%;
+    width: 80%;
   }
   #moreContent {
-    width: 100%;
+    width: 80%;
   }
   p{
   padding: 1px;
