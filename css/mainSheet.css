@@ -28,9 +28,10 @@ margin: 0 auto;
     float: none;
     width: auto;
     color:red;
+    text-align: center;
   }
   #navi li{
-  text-align: center;
+
   display: inline-block;
   }
   #mainContent {
